@@ -1,0 +1,4 @@
+LOGIN_SUCCESS user=admin ip=192.168.1.10
+FAILED_LOGIN user=root ip=10.0.0.5
+FILE_MODIFIED /etc/passwd
+SSH_LOGIN user=ec2-user ip=13.1.2.3
